@@ -1,6 +1,9 @@
 @import "tailwindcss";
 @import "tw-animate-css";
 
+
+
+
 @keyframes marquee-left {
   0% {
     transform: translateX(0%);

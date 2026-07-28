@@ -2,7 +2,7 @@ import { FaBullhorn } from "react-icons/fa";
 
 const AnnouncementBar = () => {
   const message =
-    "Saturday, 27 December — All our branches are open except Gazipur branch. Online services are fully operational.";
+    "Saturday, 27 August — All our branches are open except Gazipur branch. Online services are fully operational.";
 
   return (
     <div className="max-w-7xl mx-auto mt-4 px-2">
